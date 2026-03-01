@@ -16,7 +16,7 @@ NeuroLink is a comprehensive web application designed to assist individuals with
 - **Dashboard Overview**: Real-time monitoring of patient status, alerts, and vital signs.
 - **Task Management**: Create and schedule daily tasks for the patient.
 - **Medication Tracking**: Monitor medication adherence and set schedules.
-- **Alert System**: Receive notifications for missed medications, wandering, or emergency situations.
+- **Alert System**: Receive notifications for missed medications, wandering, or emergencies.
 - **Patient Settings**: Customize the patient's interface (font size, contrast, etc.).
 
 ## Tech Stack
